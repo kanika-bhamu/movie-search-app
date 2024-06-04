@@ -1,5 +1,5 @@
 # Playlist-library
-Create a movie library web app with user authentication (Sign In/Sign Up). After logging in, users can search movies using the OMDB API and view details. Users can create, view, and manage movie lists (like YouTube playlists), with options for public or private visibility. The home page displays user-created lists.
+This project is a comprehensive movie library web application built with the MERN stack (MongoDB, Express.js, React, Node.js). It features user authentication, allowing users to sign up and log in securely. Upon logging in, users are greeted with a home screen where they can search for movies using the OMDB API, view detailed information about each movie, and create personalized lists of their favorite films, similar to YouTube playlists. These movie lists can be marked as either public or private, with public lists accessible to anyone with the link. The application boasts a clean and intuitive layout inspired by modern web designs.
 # npm installation
 1. Open the terminal and execute "npm install" to install all the dependencies.
    
